@@ -14,4 +14,11 @@ $miPrimeraVariable = 'Hola Mundo desde una variable';
 $numero = 44;
 $verdadero = TRUE;
 
+$numero = 77;
+
 echo '<h1>' . $miPrimeraVariable . '</h1>';
+echo '<h1>' . $numero . '</h1>';
+
+$numero = 120;
+
+echo '<h1>' . $numero . '</h1>';
