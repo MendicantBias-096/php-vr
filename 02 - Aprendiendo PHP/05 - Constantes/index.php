@@ -18,14 +18,6 @@ $web = 'victor.com/master';
 echo '<h1>' . $web . '</h1>';
 
 // Constantes Predefinidas
-function holaMundo()
-{
-    echo __FUNCTION__;
-}
-
-holaMundo();
-
-
-
+echo PHP_VERSION;
 echo '<br>';
 echo PHP_OS;
